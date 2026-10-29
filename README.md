@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+Lord, kahit tres lang sa Research, basta pasado!
